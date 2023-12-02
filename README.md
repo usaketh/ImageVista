@@ -1,2 +1,2 @@
 # ImageVista
-Google for images, get infinite images for anything you want.
+Search for any image for your project with a single click.
